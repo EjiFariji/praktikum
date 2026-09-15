@@ -1,4 +1,7 @@
-# Praktikum Dart - Sistem Bilangan
-Hallo
+# Praktikum Dart
+
+
+
+Project ini untuk pembelejaran Git
 
 
